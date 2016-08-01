@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,td,th {
+	font-family: Tahoma, Trebuchet MS, Verdana, Arial;
+	font-size: 12px;
+	color: #595A47;
+}
+body {
+	background-color: #336600;
+	background-image: url(images/backgoundgif.jpg);
+	margin-top: 30px;
+}
+p  {font-family: Tahoma, Trebuchet MS, Verdana, Arial;
+	font-size: 14px;
+	color: 595A47;
+
+	line-height: 1.5;
+	font-stretch:extra-expanded;
+	}
+h1,h2,h3,h4,h5,h6 {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+h1 {
+	font-size: 30px;
+	color: 414f1b;
+	text-align: center;
+}
+h3 {
+	font-size: 18px;
+	color: #414f1b;
+}
+address  {
+font-family: Georgia, Times New Roman, Times, serif;
+font-style: italic;
+font-size:12px;
+color: #E6CF7E;
+text-align: center;
+font-weight: 800;
+}
+
+ul  {
+font-size: 14px;
+}
